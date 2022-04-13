@@ -1,6 +1,5 @@
 /* Kaden Wyble
  * 899240787
- * Youtube link ---> https://www.youtube.com/shorts/FtffIwDWlAs
  */
  const int switchPin = 2; 
 const int ledPin = 4;
