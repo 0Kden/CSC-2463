@@ -1,2 +1,3 @@
 # CSC 2463
- Digital Design
+LSU CSC 2463 
+Programming Digital Media
