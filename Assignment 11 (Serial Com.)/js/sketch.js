@@ -1,6 +1,5 @@
 /*  Kaden Wyble
     899240787
-    Youtube link ---> https://www.youtube.com/shorts/FtffIwDWlAs
 */
 
 let serial;
